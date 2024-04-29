@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/s5/Prog/Solaire/AppGestionSolaire/src/java/Model/Coupure.java</file>
+            <file>file:/E:/s5/Prog/Solaire/AppGestionSolaire/web/index.jsp</file>
+            <file>file:/E:/s5/Prog/Solaire/AppGestionSolaire/web/WEB-INF/web.xml</file>
+            <file>file:/E:/s5/Prog/Solaire/AppGestionSolaire/src/java/Model/Presence_salle.java</file>
+            <file>file:/E:/s5/Prog/Solaire/AppGestionSolaire/web/ResultatCoupure.jsp</file>
+            <file>file:/E:/s5/Prog/Solaire/AppGestionSolaire/src/java/Model/Prevision.java</file>
+            <file>file:/E:/s5/Prog/Solaire/AppGestionSolaire/web/EcranPrevision.jsp</file>
+            <file>file:/E:/s5/Prog/Solaire/AppGestionSolaire/src/java/Servlets/AddCoupure.java</file>
+            <file>file:/E:/s5/Prog/Solaire/AppGestionSolaire/src/java/Utilitaire/Util.java</file>
+            <file>file:/E:/s5/Prog/Solaire/AppGestionSolaire/web/DetailsCentre.jsp</file>
+            <file>file:/E:/s5/Prog/Solaire/AppGestionSolaire/src/java/DataConnect/Dbconnect.java</file>
+            <file>file:/E:/s5/Prog/Solaire/AppGestionSolaire/src/java/Model/Source_energie.java</file>
+            <file>file:/E:/s5/Prog/Solaire/AppGestionSolaire/web/Coupure.jsp</file>
+            <file>file:/E:/s5/Prog/Solaire/AppGestionSolaire/src/java/Model/DetailsPrevision.java</file>
+            <file>file:/E:/s5/Prog/Solaire/AppGestionSolaire/src/java/Test/Main.java</file>
+            <file>file:/E:/s5/Prog/Solaire/AppGestionSolaire/src/java/Servlets/VoirPrevision.java</file>
+            <file>file:/E:/s5/Prog/Solaire/AppGestionSolaire/src/java/Model/Batterie.java</file>
+            <file>file:/E:/s5/Prog/Solaire/AppGestionSolaire/src/java/Model/Puissance_solaire.java</file>
+            <file>file:/E:/s5/Prog/Solaire/AppGestionSolaire/src/java/Servlets/Coupure.java</file>
+            <file>file:/E:/s5/Prog/Solaire/AppGestionSolaire/src/java/Model/DetailsCentre.java</file>
+            <file>file:/E:/s5/Prog/Solaire/AppGestionSolaire/src/java/Model/DetailsSource_energie.java</file>
+            <file>file:/E:/s5/Prog/Solaire/AppGestionSolaire/web/Prevision.jsp</file>
+            <file>file:/E:/s5/Prog/Solaire/AppGestionSolaire/src/java/Servlets/Prevision.java</file>
+            <file>file:/E:/s5/Prog/Solaire/AppGestionSolaire/src/java/Model/Salle.java</file>
+            <file>file:/E:/s5/Prog/Solaire/AppGestionSolaire/src/java/Model/Centre.java</file>
+            <file>file:/E:/s5/Prog/Solaire/AppGestionSolaire/src/java/Servlets/DetailsCentreServlet.java</file>
+            <file>file:/E:/s5/Prog/Solaire/AppGestionSolaire/src/java/Model/Source_solaire.java</file>
+            <file>file:/E:/s5/Prog/Solaire/AppGestionSolaire/web/Centre.jsp</file>
+            <file>file:/E:/s5/Prog/Solaire/AppGestionSolaire/src/java/Servlets/ListeCentre.java</file>
+        </group>
+    </open-files>
+</project-private>

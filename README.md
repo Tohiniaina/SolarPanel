@@ -1,1 +1,2 @@
 # SolarPanel
+SolarPanel Manager est une application de gestion d'energie solaire. Grâce à des fonctionnalités avancées telles que la surveillance en temps réel, l'analyse des performances et la prévision des coupures mon application pemet aux utilisateurs de maximiser leur production d'énergie solaire.
